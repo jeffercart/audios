@@ -92,7 +92,7 @@ function draw() {
   image(esp5, 680 + movB, 550, 100, 100);
   image(esp5, 830 + movA, 550 + movB, 100, 100);
 
-  if (frameCount > 600) {
+  if (frameCount > 10) {
     if      (pagina == 1){
                 window.open("https://jeffercart.github.io/galeria/", "_top");} //galeria
     else if (pagina == 2){
