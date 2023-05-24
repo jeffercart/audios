@@ -96,7 +96,7 @@ function draw() {
     if      (pagina == 1){
                 window.open("https://jeffercart.github.io/galeria/", "_top");} //galeria
     else if (pagina == 2){
-               window.open("https://jeffercart.github.io/audios/", "_top");} //audio
+               window.open("https://jeffercart.github.io/cubos/", "_top");} //cubos
     else if (pagina == 3) {
                window.open("https://jeffercart.github.io/ojos/", "_top");}//ojos
     }
